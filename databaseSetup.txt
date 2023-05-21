@@ -1,0 +1,4 @@
+db.posts.insertMany([
+   { _id: 1, postName:"test", desc:"This is test"},
+   { _id: 2, postName:"test2", desc:"This is test2"}
+])
